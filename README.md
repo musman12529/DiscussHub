@@ -16,6 +16,11 @@
 . Usage
 . Other Information
 
+## Default Username and Password
+Username: zuhair
+Password: password123
+
+
 ## Introduction
 This repository contains the source code for a forum app, designed to create and manage discussion forums. The project is divided into several key components, each with its own responsibilities. This README provides an overview of these components and instructions on setting up and running the app.
 
