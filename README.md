@@ -107,12 +107,6 @@ Database migrations for schema changes and updates.
 ## Architecture Folder
 - Inside the Docs folder there is a Architecture folder that includes files for component architecture and microservice architecture
   
-## Hypotheticals Folder
-
-- As advised by the professor we made a hypothetical folder.
-- Inside the hypothetical folder there is a file named improvements.md file
-- Inside the improvement.md file we added all the hypothetical improvements that could have been made, The top improvements are for the the gneral team improvements and the below that it will be marked that which improvemnts are supposed to be individual
-- Before start of each individual improvement it will the show the name of each person that wrote down their individual improvements. 
 
 ## Coding design and Interface Design For Sprint 3
 -Clinton: Applogic Interface Design
