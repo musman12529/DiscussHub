@@ -1,5 +1,4 @@
-# term-project-teamb
-term-project-teamb created by GitHub Classroom
+
 
 # Web Review Application
 
