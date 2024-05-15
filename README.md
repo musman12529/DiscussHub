@@ -1,6 +1,6 @@
 
 
-# OpinionExchange
+# Opinion Exchange
 
 ## Video Demonstration
 
