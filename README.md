@@ -1,6 +1,6 @@
 
 
-# Forumify
+# OpinionExchange
 
 ## Video Demonstration
 
