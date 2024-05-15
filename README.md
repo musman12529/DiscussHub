@@ -1,6 +1,6 @@
 
 
-# Web Review Application
+# Forumify
 
 ## Video Demonstration
 
